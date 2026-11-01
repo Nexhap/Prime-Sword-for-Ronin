@@ -1,7 +1,9 @@
-***The Sword is yours, Pilot***
+***"The Sword is Yours, Pilot"***
 
 # Prime sword for Ronin
 Replaces non-Prime Ronin's sword for Ronin Prime's sword
+
+For any of you like me and you didn't want to spend $5 for the sword, or found ronin prime ugly, then this mod is for you!
 
 Kinda suprised no one made this yet, this was really easy to make.
 
@@ -28,8 +30,6 @@ Kinda suprised no one made this yet, this was really easy to make.
 
 ## Disclaimer
 Models and textures are property of Respawn and EA, I don't own any of it
-
-<br>
 
 ## Reaching out to me
 If you want to contact me for any request for a different sword replacement or anything else don't hesitate to DM me on discord: **Nexhap (or Scram2016)**
