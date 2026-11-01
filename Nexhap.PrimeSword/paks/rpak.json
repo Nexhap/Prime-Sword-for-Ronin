@@ -1,0 +1,14 @@
+{
+    "Preload":
+    {
+
+    },
+    "Aliases":
+    {
+		
+    },
+    "Postload":
+    {
+        "titan_prime_sword_01.rpak": "common.rpak"
+    }
+}

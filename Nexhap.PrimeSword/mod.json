@@ -1,0 +1,6 @@
+{
+	"Name" : "Nexhap.Prime_Sword_for_non-Prime_Ronin",
+	"Description" : "Replaces non-Prime Ronin's sword with Ronin Prime's Sword",
+	"Version": "1.0.0",
+	"LoadPriority": 3
+}
